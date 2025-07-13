@@ -58,6 +58,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": true,
 	"controllers": [
 		{
 			"bone": 2,
@@ -92,6 +93,7 @@
 			"type": 8
 		}
 	],
+	"date": 1703599191,
 	"events": [
 		{
 			"event": 2001,
@@ -201,7 +203,11 @@
 	],
 	"id": 1414743113,
 	"md5": "23dd1e8fe551b1fff5cd9507588401eb",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "alyx.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

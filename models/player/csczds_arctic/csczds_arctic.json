@@ -73,6 +73,7 @@
 			"name": "bombs"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -107,6 +108,7 @@
 			"type": 8
 		}
 	],
+	"date": 1606763346,
 	"events": [
 		{
 			"event": 2001,
@@ -216,7 +218,11 @@
 	],
 	"id": 1414743113,
 	"md5": "0c86a3bf78371170b708859f2f237563",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "hgrunt60.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

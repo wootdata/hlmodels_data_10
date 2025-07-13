@@ -63,6 +63,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 8,
@@ -97,6 +98,7 @@
 			"type": 8
 		}
 	],
+	"date": 1617653680,
 	"events": [
 		{
 			"event": 2001,
@@ -206,7 +208,11 @@
 	],
 	"id": 1414743113,
 	"md5": "b6b482e2f02ca37013b9c8b7d1f308f2",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "SURPstalker2.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

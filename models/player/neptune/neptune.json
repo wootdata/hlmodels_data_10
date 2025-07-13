@@ -58,6 +58,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -100,6 +101,7 @@
 			"type": 32
 		}
 	],
+	"date": 1619022419,
 	"events": [
 		{
 			"event": 2001,
@@ -209,7 +211,11 @@
 	],
 	"id": 1414743113,
 	"md5": "0c2bd6bba873f06e3e4ddbc59449e046",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "neptune.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

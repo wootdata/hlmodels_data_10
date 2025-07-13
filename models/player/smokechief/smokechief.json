@@ -38,6 +38,7 @@
 			"name": "body"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 30,
@@ -64,6 +65,7 @@
 			"type": 8
 		}
 	],
+	"date": 1594839754,
 	"events": [
 		{
 			"event": 2001,
@@ -173,7 +175,11 @@
 	],
 	"id": 1414743113,
 	"md5": "a237e426a3ab88d209e5a85de3dc2fcc",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "C:\\Users\\pc\\Desktop\\SmokeChief\\Smokechief.mdl",
+	"preview": false,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

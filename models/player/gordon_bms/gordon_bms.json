@@ -58,6 +58,7 @@
 			"name": "heads"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -100,6 +101,7 @@
 			"type": 32
 		}
 	],
+	"date": 1509223053,
 	"events": [
 		{
 			"event": 2001,
@@ -223,7 +225,11 @@
 	],
 	"id": 1414743113,
 	"md5": "cbcd05eaefba2940d84a8443f6df158e",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "C:\\Users\\ELIZABETH MENA\\Favorites\\Desktop\\Nueva carpeta\\player.m",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{

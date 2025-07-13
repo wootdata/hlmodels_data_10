@@ -63,6 +63,7 @@
 			"name": "leg"
 		}
 	],
+	"colorable": false,
 	"controllers": [
 		{
 			"bone": 2,
@@ -97,6 +98,7 @@
 			"type": 8
 		}
 	],
+	"date": 1619164322,
 	"events": [
 		{
 			"event": 2001,
@@ -206,7 +208,11 @@
 	],
 	"id": 1414743113,
 	"md5": "ae6e17508e73ab46061047d4905720a6",
+	"metahook_external": false,
+	"metahook_ragdoll": false,
 	"name": "sakuya.mdl",
+	"preview": true,
+	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{
