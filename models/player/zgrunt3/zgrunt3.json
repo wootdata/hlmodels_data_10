@@ -11,8 +11,8 @@
 			"models": [
 				{
 					"name": "body_player",
-					"polys": 1095,
-					"verts": 611
+					"polys": 1442,
+					"verts": 773
 				}, 
 				{
 					"name": "body_skeleton",
@@ -26,8 +26,8 @@
 			"models": [
 				{
 					"name": "body_head",
-					"polys": 308,
-					"verts": 166
+					"polys": 470,
+					"verts": 243
 				}, 
 				{
 					"name": "body_no_head",
@@ -78,7 +78,7 @@
 			"type": 8
 		}
 	],
-	"date": 1336842899,
+	"date": 1336842990,
 	"events": [
 		{
 			"event": 2001,
@@ -166,10 +166,10 @@
 		}
 	],
 	"id": 1414743113,
-	"md5": "ae82d16f13adb8702ff1006a8127b82a",
+	"md5": "adcbb8656abe9f007350f5303f74c0c3",
 	"metahook_external": false,
 	"metahook_ragdoll": false,
-	"name": "swat.mdl",
+	"name": ".mdl.mdl",
 	"preview": true,
 	"readme": false,
 	"seq_groups": "1",
@@ -620,7 +620,7 @@
 			"name": "idle_armor"
 		}
 	],
-	"size": 889344,
+	"size": 860788,
 	"skeleton": [
 		{
 			"name": "Bip01",
@@ -691,24 +691,16 @@
 			"parent": 15
 		}, 
 		{
-			"name": "Bip01 R Arm",
-			"parent": 12
+			"name": "Bip01 L Finger0",
+			"parent": 16
 		}, 
 		{
-			"name": "Bip01 R Arm1",
+			"name": "Bip01 L Finger01",
 			"parent": 17
 		}, 
 		{
-			"name": "Bip01 R Arm2",
+			"name": "Bip01 L Finger02",
 			"parent": 18
-		}, 
-		{
-			"name": "Bip01 R Hand",
-			"parent": 19
-		}, 
-		{
-			"name": "Bip01 L Finger0",
-			"parent": 16
 		}, 
 		{
 			"name": "Bip01 L Finger1",
@@ -716,19 +708,51 @@
 		}, 
 		{
 			"name": "Bip01 L Finger11",
-			"parent": 22
+			"parent": 20
+		}, 
+		{
+			"name": "Bip01 L Finger12",
+			"parent": 21
+		}, 
+		{
+			"name": "Bip01 R Arm",
+			"parent": 12
+		}, 
+		{
+			"name": "Bip01 R Arm1",
+			"parent": 23
+		}, 
+		{
+			"name": "Bip01 R Arm2",
+			"parent": 24
+		}, 
+		{
+			"name": "Bip01 R Hand",
+			"parent": 25
 		}, 
 		{
 			"name": "Bip01 R Finger0",
-			"parent": 20
+			"parent": 26
+		}, 
+		{
+			"name": "Bip01 R Finger01",
+			"parent": 27
+		}, 
+		{
+			"name": "Bip01 R Finger02",
+			"parent": 28
 		}, 
 		{
 			"name": "Bip01 R Finger1",
-			"parent": 20
+			"parent": 26
 		}, 
 		{
 			"name": "Bip01 R Finger11",
-			"parent": 25
+			"parent": 30
+		}, 
+		{
+			"name": "Bip01 R Finger12",
+			"parent": 31
 		}, 
 		{
 			"name": "Bip01 L Toe0",
@@ -748,9 +772,27 @@
 	"textures": [
 		{
 			"flags": 0,
-			"height": 512,
-			"name": "gsg9_body.bmp",
-			"width": 512
+			"height": 252,
+			"name": "DC_soldier_torso.bmp",
+			"width": 256
+		}, 
+		{
+			"flags": 0,
+			"height": 128,
+			"name": "DC_soldier_misc.bmp",
+			"width": 128
+		}, 
+		{
+			"flags": 0,
+			"height": 115,
+			"name": "face_commander_wht.bmp",
+			"width": 140
+		}, 
+		{
+			"flags": 0,
+			"height": 96,
+			"name": "DC_soldier_hand_wht.bmp",
+			"width": 128
 		}, 
 		{
 			"flags": 0,
@@ -773,8 +815,20 @@
 		{
 			"flags": 0,
 			"height": 256,
-			"name": "gsg9_head.bmp",
-			"width": 256
+			"name": "zom_head1.bmp",
+			"width": 512
+		}, 
+		{
+			"flags": 0,
+			"height": 93,
+			"name": "arm.bmp",
+			"width": 72
+		}, 
+		{
+			"flags": 0,
+			"height": 79,
+			"name": "organs.bmp",
+			"width": 36
 		}, 
 		{
 			"flags": 0,
