@@ -175,6 +175,7 @@
 	"md5": "471269f73567d1ba7cf651d8beb775ab",
 	"metahook_external": false,
 	"metahook_ragdoll": false,
+	"modid": 2,
 	"name": "valve/models/player/spawn/spawn.mdl",
 	"preview": true,
 	"readme": false,

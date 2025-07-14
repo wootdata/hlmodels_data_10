@@ -175,6 +175,7 @@
 	"md5": "2535191b2ee9e9844677cb0b08d775b6",
 	"metahook_external": false,
 	"metahook_ragdoll": false,
+	"modid": 2,
 	"name": "valve/models/player/johnny/johnny.mdl",
 	"preview": true,
 	"readme": false,

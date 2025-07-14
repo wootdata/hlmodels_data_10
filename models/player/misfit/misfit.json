@@ -175,6 +175,7 @@
 	"md5": "36c83b42d7874c67dde92d0d107e71d2",
 	"metahook_external": false,
 	"metahook_ragdoll": false,
+	"modid": 2,
 	"name": "valve/models/player/misfit/misfit.mdl",
 	"preview": false,
 	"readme": false,

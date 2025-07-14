@@ -175,6 +175,7 @@
 	"md5": "1f2ecfa934eeb69cb26d26a9df84423d",
 	"metahook_external": false,
 	"metahook_ragdoll": false,
+	"modid": 2,
 	"name": "test.mdl",
 	"preview": true,
 	"readme": false,

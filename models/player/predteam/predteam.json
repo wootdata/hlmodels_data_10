@@ -175,6 +175,7 @@
 	"md5": "514ec10d87692ff6b7a04697c0dcb3ec",
 	"metahook_external": false,
 	"metahook_ragdoll": false,
+	"modid": 2,
 	"name": "valve/models/player/predteam/predteam.mdl",
 	"preview": true,
 	"readme": false,
