@@ -1,22 +1,17 @@
 {
 	"attachments": [
 		{
-			"bone": 20,
+			"bone": 21,
 			"name": "",
 			"type": 0
 		}, 
 		{
-			"bone": 20,
+			"bone": 21,
 			"name": "",
 			"type": 0
 		}, 
 		{
-			"bone": 20,
-			"name": "",
-			"type": 0
-		}, 
-		{
-			"bone": 16,
+			"bone": 21,
 			"name": "",
 			"type": 0
 		}
@@ -25,19 +20,9 @@
 		{
 			"models": [
 				{
-					"name": "2f",
-					"polys": 3165,
-					"verts": 1601
-				}
-			],
-			"name": "body"
-		}, 
-		{
-			"models": [
-				{
-					"name": "1f",
-					"polys": 710,
-					"verts": 385
+					"name": "LiandriTrooperFemale",
+					"polys": 2307,
+					"verts": 1334
 				}
 			],
 			"name": "body"
@@ -78,7 +63,7 @@
 			"type": 8
 		}
 	],
-	"date": 1348805822,
+	"date": 1397179770,
 	"events": [
 		{
 			"event": 2001,
@@ -184,27 +169,13 @@
 			"options": "40",
 			"sequence": 52,
 			"type": 0
-		}, 
-		{
-			"event": 5001,
-			"frame": 1,
-			"options": "5",
-			"sequence": 66,
-			"type": 0
-		}, 
-		{
-			"event": 5001,
-			"frame": 1,
-			"options": "5",
-			"sequence": 68,
-			"type": 0
 		}
 	],
 	"id": 1414743113,
-	"md5": "7a9746e95f26261b16ab90784c7d4002",
+	"md5": "ba676c7ef976e02cea1a2fe48eb30258",
 	"metahook_external": false,
 	"metahook_ragdoll": false,
-	"name": "alyx.mdl",
+	"name": "ltf.mdl",
 	"preview": false,
 	"readme": false,
 	"seq_groups": "1",
@@ -216,7 +187,7 @@
 		}, 
 		{
 			"fps": 14.000000,
-			"frames": 1,
+			"frames": 41,
 			"name": "idle"
 		}, 
 		{
@@ -595,7 +566,7 @@
 			"name": "deadtable"
 		}
 	],
-	"size": 758976,
+	"size": 792460,
 	"skeleton": [
 		{
 			"name": "Bip01",
@@ -650,20 +621,24 @@
 			"parent": 11
 		}, 
 		{
+			"name": "Bip01 Head",
+			"parent": 12
+		}, 
+		{
 			"name": "Bip01 L Arm",
 			"parent": 12
 		}, 
 		{
 			"name": "Bip01 L Arm1",
-			"parent": 13
-		}, 
-		{
-			"name": "Bip01 L Arm2",
 			"parent": 14
 		}, 
 		{
-			"name": "Bip01 L Hand",
+			"name": "Bip01 L Arm2",
 			"parent": 15
+		}, 
+		{
+			"name": "Bip01 L Hand",
+			"parent": 16
 		}, 
 		{
 			"name": "Bip01 R Arm",
@@ -671,19 +646,15 @@
 		}, 
 		{
 			"name": "Bip01 R Arm1",
-			"parent": 17
-		}, 
-		{
-			"name": "Bip01 R Arm2",
 			"parent": 18
 		}, 
 		{
-			"name": "Bip01 R Hand",
+			"name": "Bip01 R Arm2",
 			"parent": 19
 		}, 
 		{
-			"name": "Bip01 Head",
-			"parent": 12
+			"name": "Bip01 R Hand",
+			"parent": 20
 		}
 	],
 	"skins": 1,
@@ -692,20 +663,20 @@
 		{
 			"flags": 0,
 			"height": 512,
-			"name": "alyxhunted_sheet.bmp",
+			"name": "LiandriTrooperFemaleBody.bmp",
 			"width": 512
 		}, 
 		{
 			"flags": 0,
-			"height": 256,
-			"name": "alyxhunted_faceandhair.bmp",
+			"height": 512,
+			"name": "LiandriTrooperHeadSM.bmp",
 			"width": 512
 		}, 
 		{
-			"flags": 0,
-			"height": 256,
-			"name": "eye-iris-green.bmp",
-			"width": 256
+			"flags": 3,
+			"height": 64,
+			"name": "chrome.bmp",
+			"width": 64
 		}
 	],
 	"version": 10

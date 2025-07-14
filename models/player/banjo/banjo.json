@@ -1,22 +1,17 @@
 {
 	"attachments": [
 		{
-			"bone": 20,
+			"bone": 21,
 			"name": "",
 			"type": 0
 		}, 
 		{
-			"bone": 20,
+			"bone": 21,
 			"name": "",
 			"type": 0
 		}, 
 		{
-			"bone": 20,
-			"name": "",
-			"type": 0
-		}, 
-		{
-			"bone": 16,
+			"bone": 21,
 			"name": "",
 			"type": 0
 		}
@@ -25,22 +20,12 @@
 		{
 			"models": [
 				{
-					"name": "2f",
-					"polys": 3165,
-					"verts": 1601
+					"name": "banjo",
+					"polys": 805,
+					"verts": 249
 				}
 			],
-			"name": "body"
-		}, 
-		{
-			"models": [
-				{
-					"name": "1f",
-					"polys": 710,
-					"verts": 385
-				}
-			],
-			"name": "body"
+			"name": "studio"
 		}
 	],
 	"colorable": false,
@@ -78,7 +63,7 @@
 			"type": 8
 		}
 	],
-	"date": 1348805822,
+	"date": 1626111822,
 	"events": [
 		{
 			"event": 2001,
@@ -184,39 +169,25 @@
 			"options": "40",
 			"sequence": 52,
 			"type": 0
-		}, 
-		{
-			"event": 5001,
-			"frame": 1,
-			"options": "5",
-			"sequence": 66,
-			"type": 0
-		}, 
-		{
-			"event": 5001,
-			"frame": 1,
-			"options": "5",
-			"sequence": 68,
-			"type": 0
 		}
 	],
 	"id": 1414743113,
-	"md5": "7a9746e95f26261b16ab90784c7d4002",
+	"md5": "1f2ecfa934eeb69cb26d26a9df84423d",
 	"metahook_external": false,
 	"metahook_ragdoll": false,
-	"name": "alyx.mdl",
-	"preview": false,
+	"name": "test.mdl",
+	"preview": true,
 	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{
 			"fps": 14.000000,
 			"frames": 31,
-			"name": "Koshak_HL"
+			"name": "look_idle"
 		}, 
 		{
 			"fps": 14.000000,
-			"frames": 1,
+			"frames": 41,
 			"name": "idle"
 		}, 
 		{
@@ -595,7 +566,7 @@
 			"name": "deadtable"
 		}
 	],
-	"size": 758976,
+	"size": 507532,
 	"skeleton": [
 		{
 			"name": "Bip01",
@@ -662,28 +633,28 @@
 			"parent": 14
 		}, 
 		{
-			"name": "Bip01 L Hand",
-			"parent": 15
-		}, 
-		{
 			"name": "Bip01 R Arm",
 			"parent": 12
 		}, 
 		{
 			"name": "Bip01 R Arm1",
-			"parent": 17
+			"parent": 16
 		}, 
 		{
 			"name": "Bip01 R Arm2",
-			"parent": 18
-		}, 
-		{
-			"name": "Bip01 R Hand",
-			"parent": 19
+			"parent": 17
 		}, 
 		{
 			"name": "Bip01 Head",
 			"parent": 12
+		}, 
+		{
+			"name": "Bip01 L Hand",
+			"parent": 15
+		}, 
+		{
+			"name": "Bip01 R Hand",
+			"parent": 18
 		}
 	],
 	"skins": 1,
@@ -691,21 +662,39 @@
 	"textures": [
 		{
 			"flags": 0,
+			"height": 38,
+			"name": "banjo2.bmp",
+			"width": 40
+		}, 
+		{
+			"flags": 0,
+			"height": 38,
+			"name": "banjo1.bmp",
+			"width": 40
+		}, 
+		{
+			"flags": 0,
+			"height": 38,
+			"name": "banjo4.bmp",
+			"width": 40
+		}, 
+		{
+			"flags": 0,
+			"height": 51,
+			"name": "banjo5.bmp",
+			"width": 24
+		}, 
+		{
+			"flags": 0,
+			"height": 38,
+			"name": "banjo3.bmp",
+			"width": 40
+		}, 
+		{
+			"flags": 0,
 			"height": 512,
-			"name": "alyxhunted_sheet.bmp",
+			"name": "banjo_palette.bmp",
 			"width": 512
-		}, 
-		{
-			"flags": 0,
-			"height": 256,
-			"name": "alyxhunted_faceandhair.bmp",
-			"width": 512
-		}, 
-		{
-			"flags": 0,
-			"height": 256,
-			"name": "eye-iris-green.bmp",
-			"width": 256
 		}
 	],
 	"version": 10

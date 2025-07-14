@@ -1,22 +1,17 @@
 {
 	"attachments": [
 		{
-			"bone": 20,
+			"bone": 15,
 			"name": "",
 			"type": 0
 		}, 
 		{
-			"bone": 20,
+			"bone": 15,
 			"name": "",
 			"type": 0
 		}, 
 		{
-			"bone": 20,
-			"name": "",
-			"type": 0
-		}, 
-		{
-			"bone": 16,
+			"bone": 15,
 			"name": "",
 			"type": 0
 		}
@@ -25,9 +20,9 @@
 		{
 			"models": [
 				{
-					"name": "2f",
-					"polys": 3165,
-					"verts": 1601
+					"name": "p0",
+					"polys": 590,
+					"verts": 716
 				}
 			],
 			"name": "body"
@@ -35,18 +30,158 @@
 		{
 			"models": [
 				{
-					"name": "1f",
-					"polys": 710,
-					"verts": 385
+					"name": "p1",
+					"polys": 3338,
+					"verts": 1768
 				}
 			],
-			"name": "body"
+			"name": "studio"
+		}, 
+		{
+			"models": [
+				{
+					"name": "p2",
+					"polys": 3351,
+					"verts": 1772
+				}
+			],
+			"name": "studio"
+		}, 
+		{
+			"models": [
+				{
+					"name": "p3",
+					"polys": 2326,
+					"verts": 1403
+				}
+			],
+			"name": "studio"
+		}, 
+		{
+			"models": [
+				{
+					"name": "p4",
+					"polys": 2066,
+					"verts": 1064
+				}
+			],
+			"name": "studio"
+		}, 
+		{
+			"models": [
+				{
+					"name": "p5",
+					"polys": 1476,
+					"verts": 773
+				}
+			],
+			"name": "studio"
+		}, 
+		{
+			"models": [
+				{
+					"name": "p6",
+					"polys": 3576,
+					"verts": 1799
+				}
+			],
+			"name": "studio"
+		}, 
+		{
+			"models": [
+				{
+					"name": "p7",
+					"polys": 3576,
+					"verts": 1799
+				}
+			],
+			"name": "studio"
+		}, 
+		{
+			"models": [
+				{
+					"name": "p8",
+					"polys": 637,
+					"verts": 373
+				}
+			],
+			"name": "studio"
+		}, 
+		{
+			"models": [
+				{
+					"name": "p9",
+					"polys": 1912,
+					"verts": 968
+				}
+			],
+			"name": "studio"
+		}, 
+		{
+			"models": [
+				{
+					"name": "p10",
+					"polys": 1912,
+					"verts": 968
+				}
+			],
+			"name": "studio"
+		}, 
+		{
+			"models": [
+				{
+					"name": "p11",
+					"polys": 2996,
+					"verts": 1538
+				}
+			],
+			"name": "studio"
+		}, 
+		{
+			"models": [
+				{
+					"name": "p12",
+					"polys": 2406,
+					"verts": 1199
+				}
+			],
+			"name": "studio"
+		}, 
+		{
+			"models": [
+				{
+					"name": "p13",
+					"polys": 1763,
+					"verts": 922
+				}
+			],
+			"name": "studio"
+		}, 
+		{
+			"models": [
+				{
+					"name": "p14",
+					"polys": 2388,
+					"verts": 1236
+				}
+			],
+			"name": "studio"
+		}, 
+		{
+			"models": [
+				{
+					"name": "p15",
+					"polys": 2864,
+					"verts": 1552
+				}
+			],
+			"name": "studio"
 		}
 	],
 	"colorable": false,
 	"controllers": [
 		{
-			"bone": 8,
+			"bone": 2,
 			"end": 30.000000,
 			"index": 0,
 			"rest": 0,
@@ -54,7 +189,7 @@
 			"type": 8
 		}, 
 		{
-			"bone": 9,
+			"bone": 3,
 			"end": 30.000000,
 			"index": 1,
 			"rest": 0,
@@ -62,7 +197,7 @@
 			"type": 8
 		}, 
 		{
-			"bone": 10,
+			"bone": 4,
 			"end": 30.000000,
 			"index": 2,
 			"rest": 0,
@@ -70,7 +205,7 @@
 			"type": 8
 		}, 
 		{
-			"bone": 11,
+			"bone": 5,
 			"end": 30.000000,
 			"index": 3,
 			"rest": 0,
@@ -78,7 +213,7 @@
 			"type": 8
 		}
 	],
-	"date": 1348805822,
+	"date": 1622572261,
 	"events": [
 		{
 			"event": 2001,
@@ -184,39 +319,25 @@
 			"options": "40",
 			"sequence": 52,
 			"type": 0
-		}, 
-		{
-			"event": 5001,
-			"frame": 1,
-			"options": "5",
-			"sequence": 66,
-			"type": 0
-		}, 
-		{
-			"event": 5001,
-			"frame": 1,
-			"options": "5",
-			"sequence": 68,
-			"type": 0
 		}
 	],
 	"id": 1414743113,
-	"md5": "7a9746e95f26261b16ab90784c7d4002",
+	"md5": "b5b8427786b4d8aa037bc0954d2f9dbb",
 	"metahook_external": false,
 	"metahook_ragdoll": false,
-	"name": "alyx.mdl",
-	"preview": false,
+	"name": "Helmet.mdl",
+	"preview": true,
 	"readme": false,
 	"seq_groups": "1",
 	"sequences": [
 		{
 			"fps": 14.000000,
 			"frames": 31,
-			"name": "Koshak_HL"
+			"name": "look_idle"
 		}, 
 		{
 			"fps": 14.000000,
-			"frames": 1,
+			"frames": 41,
 			"name": "idle"
 		}, 
 		{
@@ -595,7 +716,7 @@
 			"name": "deadtable"
 		}
 	],
-	"size": 758976,
+	"size": 3878608,
 	"skeleton": [
 		{
 			"name": "Bip01",
@@ -606,16 +727,72 @@
 			"parent": 0
 		}, 
 		{
+			"name": "Bip01 Spine",
+			"parent": 1
+		}, 
+		{
+			"name": "Bip01 Spine1",
+			"parent": 2
+		}, 
+		{
+			"name": "Bip01 Spine2",
+			"parent": 3
+		}, 
+		{
+			"name": "Bip01 Spine3",
+			"parent": 4
+		}, 
+		{
+			"name": "Bip01 Neck",
+			"parent": 5
+		}, 
+		{
+			"name": "Bip01 Head",
+			"parent": 6
+		}, 
+		{
+			"name": "Bip01 L Arm",
+			"parent": 6
+		}, 
+		{
+			"name": "Bip01 L Arm1",
+			"parent": 8
+		}, 
+		{
+			"name": "Bip01 L Arm2",
+			"parent": 9
+		}, 
+		{
+			"name": "Bip01 L Hand",
+			"parent": 10
+		}, 
+		{
+			"name": "Bip01 R Arm",
+			"parent": 6
+		}, 
+		{
+			"name": "Bip01 R Arm1",
+			"parent": 12
+		}, 
+		{
+			"name": "Bip01 R Arm2",
+			"parent": 13
+		}, 
+		{
+			"name": "Bip01 R Hand",
+			"parent": 14
+		}, 
+		{
 			"name": "Bip01 L Leg",
 			"parent": 1
 		}, 
 		{
 			"name": "Bip01 L Leg1",
-			"parent": 2
+			"parent": 16
 		}, 
 		{
 			"name": "Bip01 L Foot",
-			"parent": 3
+			"parent": 17
 		}, 
 		{
 			"name": "Bip01 R Leg",
@@ -623,67 +800,11 @@
 		}, 
 		{
 			"name": "Bip01 R Leg1",
-			"parent": 5
-		}, 
-		{
-			"name": "Bip01 R Foot",
-			"parent": 6
-		}, 
-		{
-			"name": "Bip01 Spine",
-			"parent": 1
-		}, 
-		{
-			"name": "Bip01 Spine1",
-			"parent": 8
-		}, 
-		{
-			"name": "Bip01 Spine2",
-			"parent": 9
-		}, 
-		{
-			"name": "Bip01 Spine3",
-			"parent": 10
-		}, 
-		{
-			"name": "Bip01 Neck",
-			"parent": 11
-		}, 
-		{
-			"name": "Bip01 L Arm",
-			"parent": 12
-		}, 
-		{
-			"name": "Bip01 L Arm1",
-			"parent": 13
-		}, 
-		{
-			"name": "Bip01 L Arm2",
-			"parent": 14
-		}, 
-		{
-			"name": "Bip01 L Hand",
-			"parent": 15
-		}, 
-		{
-			"name": "Bip01 R Arm",
-			"parent": 12
-		}, 
-		{
-			"name": "Bip01 R Arm1",
-			"parent": 17
-		}, 
-		{
-			"name": "Bip01 R Arm2",
-			"parent": 18
-		}, 
-		{
-			"name": "Bip01 R Hand",
 			"parent": 19
 		}, 
 		{
-			"name": "Bip01 Head",
-			"parent": 12
+			"name": "Bip01 R Foot",
+			"parent": 20
 		}
 	],
 	"skins": 1,
@@ -691,21 +812,81 @@
 	"textures": [
 		{
 			"flags": 0,
+			"height": 128,
+			"name": "default.bmp",
+			"width": 128
+		}, 
+		{
+			"flags": 0,
 			"height": 512,
-			"name": "alyxhunted_sheet.bmp",
+			"name": "M_Face_01_D_1.bmp",
+			"width": 512
+		}, 
+		{
+			"flags": 0,
+			"height": 512,
+			"name": "M_Hair_01_D_TS_1.bmp",
+			"width": 512
+		}, 
+		{
+			"flags": 0,
+			"height": 512,
+			"name": "EyeScleraBaseColor_2_TS_1.bmp",
+			"width": 512
+		}, 
+		{
+			"flags": 0,
+			"height": 512,
+			"name": "F_Head_G_01_D_TS_AO_1.bmp",
+			"width": 512
+		}, 
+		{
+			"flags": 0,
+			"height": 512,
+			"name": "M_BaseBody_01_D_1.bmp",
+			"width": 512
+		}, 
+		{
+			"flags": 0,
+			"height": 512,
+			"name": "M_Hands_D_01_D_1.bmp",
+			"width": 512
+		}, 
+		{
+			"flags": 0,
+			"height": 512,
+			"name": "M_Body_D_01_AO_1.bmp",
+			"width": 512
+		}, 
+		{
+			"flags": 0,
+			"height": 128,
+			"name": "Scarf_D_01_D_1.bmp",
+			"width": 512
+		}, 
+		{
+			"flags": 0,
+			"height": 512,
+			"name": "F_Back_E_01_AO_1.bmp",
+			"width": 512
+		}, 
+		{
+			"flags": 0,
+			"height": 512,
+			"name": "F_Legs_C_01_D_TS_4_AO_1.bmp",
 			"width": 512
 		}, 
 		{
 			"flags": 0,
 			"height": 256,
-			"name": "alyxhunted_faceandhair.bmp",
-			"width": 512
-		}, 
-		{
-			"flags": 0,
-			"height": 256,
-			"name": "eye-iris-green.bmp",
+			"name": "M_Feet_L_02_D_1.bmp",
 			"width": 256
+		}, 
+		{
+			"flags": 0,
+			"height": 512,
+			"name": "M_Belt_D_01_D_TS_AO_1.bmp",
+			"width": 512
 		}
 	],
 	"version": 10
