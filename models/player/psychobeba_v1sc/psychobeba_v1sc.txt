@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : psychobeba
+Source Model Hash : b3599ffa607aea089efd8a5ef3f424d8
+Source Model Date : 1579696187 (2020/01/22)
+
+Ported Model Name : psychobeba_v1sc
+Ported Model Hash : 424c373f709a1fedbb09786e69f20a9a
+Ported Model Date : 1752492171 (2025/07/14)

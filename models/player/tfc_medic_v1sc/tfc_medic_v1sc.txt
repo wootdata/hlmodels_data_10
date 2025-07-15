@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : tfc_medic
+Source Model Hash : 85a2ff41e20ebf8f0bf09f2b713a7ebf
+Source Model Date : 1460177830 (2016/04/08)
+
+Ported Model Name : tfc_medic_v1sc
+Ported Model Hash : b0ddbfc9824a084541a7e731ee0cb6ed
+Ported Model Date : 1752492408 (2025/07/14)

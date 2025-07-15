@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : ta_c_e_hunter_armor
+Source Model Hash : 27e9a499a487b9b4b7ffdd50dbfe61f8
+Source Model Date : 1631515385 (2021/09/12)
+
+Ported Model Name : tace_hunter_arm_v1sc
+Ported Model Hash : f53ed58f9fb14a04dac918c4e8371aa7
+Ported Model Date : 1752492372 (2025/07/14)

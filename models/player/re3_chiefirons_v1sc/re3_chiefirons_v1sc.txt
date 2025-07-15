@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : re3_chiefirons
+Source Model Hash : 9558aea6265a3dae73bb9438ea3be449
+Source Model Date : 1269246584 (2010/03/22)
+
+Ported Model Name : re3_chiefirons_v1sc
+Ported Model Hash : c2dcfe9eaaa07962ea726c36b0111d13
+Ported Model Date : 1752492191 (2025/07/14)

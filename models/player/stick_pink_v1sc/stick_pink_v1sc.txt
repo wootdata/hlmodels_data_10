@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : stick_pink
+Source Model Hash : 94c054ec54b4ad79e04f8ec1cbed8a67
+Source Model Date : 1413466873 (2014/10/16)
+
+Ported Model Name : stick_pink_v1sc
+Ported Model Hash : c4dc8b0786ef36a6c317a4f1f0e6bc6a
+Ported Model Date : 1752492346 (2025/07/14)

@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : stalker_eco_orange
+Source Model Hash : dc89c33467a74cc5cdaaf5b1fe1f7b21
+Source Model Date : 1463708826 (2016/05/19)
+
+Ported Model Name : stal_eco_orange_v1sc
+Ported Model Hash : 618d2aed43ee1f9b1f0d55727207bf9b
+Ported Model Date : 1752492330 (2025/07/14)

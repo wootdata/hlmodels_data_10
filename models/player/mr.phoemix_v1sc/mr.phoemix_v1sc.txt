@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : mr.phoemix
+Source Model Hash : 8afd521506e6145fad83d87f573794ae
+Source Model Date : 1441210574 (2015/09/02)
+
+Ported Model Name : mr.phoemix_v1sc
+Ported Model Hash : 772372af304f4bbad8e4cf13abe19045
+Ported Model Date : 1752492045 (2025/07/14)

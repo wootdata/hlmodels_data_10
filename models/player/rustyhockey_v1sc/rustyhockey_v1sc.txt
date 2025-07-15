@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : rustyhockey
+Source Model Hash : c11aa6a6540a3fd23f21fdfec54abfcf
+Source Model Date : 1269528507 (2010/03/25)
+
+Ported Model Name : rustyhockey_v1sc
+Ported Model Hash : 7f250dc178a09f11b7cf2c27c631fa9d
+Ported Model Date : 1752492226 (2025/07/14)

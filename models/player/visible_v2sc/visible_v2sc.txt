@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : visible_v2
+Source Model Hash : f5cfb3ff9d6352746b9788b9e7040d02
+Source Model Date : 1591341295 (2020/06/05)
+
+Ported Model Name : visible_v2sc
+Ported Model Hash : 9a4fac904feea623f524c5d8129e8161
+Ported Model Date : 1752492493 (2025/07/14)

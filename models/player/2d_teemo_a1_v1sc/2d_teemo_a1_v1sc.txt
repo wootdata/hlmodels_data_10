@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : 2d_teemo_a1
+Source Model Hash : 4f399a47e389f18194b2ab0b1fb12653
+Source Model Date : 1542476676 (2018/11/17)
+
+Ported Model Name : 2d_teemo_a1_v1sc
+Ported Model Hash : 61b8bba9ad14fee545861d992669057b
+Ported Model Date : 1752491318 (2025/07/14)

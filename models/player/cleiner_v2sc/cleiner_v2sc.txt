@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : cleiner_v2
+Source Model Hash : 96c43ce04874d8fc651a4c2aa411fad3
+Source Model Date : 1583572648 (2020/03/07)
+
+Ported Model Name : cleiner_v2sc
+Ported Model Hash : 099fb688654a777b1592f459de56e39d
+Ported Model Date : 1752491481 (2025/07/14)

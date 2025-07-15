@@ -1,0 +1,18 @@
+ZGUNDAM
+
+Model :  FantasyFT
+
+
+-----------------------
+modelguy generated text
+-----------------------
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : zgundam
+Source Model Hash : 1cfd8dc53a78c0c551740de482e7a791
+Source Model Date : 1491737851 (2017/04/09)
+
+Ported Model Name : zgundam_v1sc
+Ported Model Hash : fe3f4986dc9809cb3646344af1983d56
+Ported Model Date : 1752492529 (2025/07/14)

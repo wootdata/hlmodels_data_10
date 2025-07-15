@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : dgf_monkey
+Source Model Hash : 683fa5fe5202c8fc3bf8e1881cbb4597
+Source Model Date : 1408939212 (2014/08/24)
+
+Ported Model Name : dgf_monkey_v1sc
+Ported Model Hash : 1459be5ff8dc587d2c1649002de3921b
+Ported Model Date : 1752491596 (2025/07/14)

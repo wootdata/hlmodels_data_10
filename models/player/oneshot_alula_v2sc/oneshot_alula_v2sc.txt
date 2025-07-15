@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : oneshot_alula_v2
+Source Model Hash : a0239451400d0dcdb4864942e3cf581f
+Source Model Date : 1739039791 (2025/02/08)
+
+Ported Model Name : oneshot_alula_v2sc
+Ported Model Hash : b5d19ef63de3f108ded5d1d503298edd
+Ported Model Date : 1752492117 (2025/07/14)

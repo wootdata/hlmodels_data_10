@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : ddlc_yuri
+Source Model Hash : 000b7fe0bffdccf9e67000de0452567d
+Source Model Date : 1556281171 (2019/04/26)
+
+Ported Model Name : ddlc_yuri_v1sc
+Ported Model Hash : d7312569f31184697f744bf8eb996193
+Ported Model Date : 1752491592 (2025/07/14)

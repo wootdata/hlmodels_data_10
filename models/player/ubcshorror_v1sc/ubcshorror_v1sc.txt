@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : ubcshorror
+Source Model Hash : fa39dd9bd4466d546333e65c6628447b
+Source Model Date : 1236289392 (2009/03/05)
+
+Ported Model Name : ubcshorror_v1sc
+Ported Model Hash : 877a0aa91109467184728f821b115214
+Ported Model Date : 1752492466 (2025/07/14)

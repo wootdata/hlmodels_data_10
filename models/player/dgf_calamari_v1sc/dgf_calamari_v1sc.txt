@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : dgf_calamari
+Source Model Hash : 0a7bb32385ef9390000fea046b57fdfd
+Source Model Date : 1408957500 (2014/08/25)
+
+Ported Model Name : dgf_calamari_v1sc
+Ported Model Hash : 958adcb8d27bdff3b11953a2ba6fbfb8
+Ported Model Date : 1752491596 (2025/07/14)

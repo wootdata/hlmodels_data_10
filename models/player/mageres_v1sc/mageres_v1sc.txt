@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : mageres
+Source Model Hash : 866752f401f6a25bab35e1a65b0f01fc
+Source Model Date : 1457762609 (2016/03/11)
+
+Ported Model Name : mageres_v1sc
+Ported Model Hash : f7c74b97975d219aa8489f10e345c19a
+Ported Model Date : 1752491982 (2025/07/14)

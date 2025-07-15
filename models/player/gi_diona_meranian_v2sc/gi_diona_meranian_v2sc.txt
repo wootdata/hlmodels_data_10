@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : gi_diona_meranian_v2
+Source Model Hash : 045b35f60c623bf4ddc288287a70f57c
+Source Model Date : 1701331370 (2023/11/30)
+
+Ported Model Name : gi_diona_meranian_v2sc
+Ported Model Hash : 440e0c36106ccc0709674dc7ca03d961
+Ported Model Date : 1752491707 (2025/07/14)

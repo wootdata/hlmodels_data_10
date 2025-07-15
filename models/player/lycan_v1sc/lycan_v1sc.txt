@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : lycan
+Source Model Hash : b8378d7139dc2a5fbaadb7f1eb5750b5
+Source Model Date : 1654719591 (2022/06/08)
+
+Ported Model Name : lycan_v1sc
+Ported Model Hash : bb9471749494736d4340ec312b263cd3
+Ported Model Date : 1752491975 (2025/07/14)

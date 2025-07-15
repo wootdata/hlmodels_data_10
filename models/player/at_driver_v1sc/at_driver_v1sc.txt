@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : at_driver
+Source Model Hash : e225130da8bcd6888f53e72a7a2ba025
+Source Model Date : 1262712182 (2010/01/05)
+
+Ported Model Name : at_driver_v1sc
+Ported Model Hash : e7474a8d680189808586dc0b8fb2ff4b
+Ported Model Date : 1752491388 (2025/07/14)

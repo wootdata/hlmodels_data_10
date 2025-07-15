@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : re_succ_hrd_shield_v2
+Source Model Hash : ed294949a2b8db6d56929fe55017b7af
+Source Model Date : 1523924659 (2018/04/16)
+
+Ported Model Name : res_hrd_shield_v2sc
+Ported Model Hash : 5b4ddcd18d212b9adfc4c10f8f4f949e
+Ported Model Date : 1752492212 (2025/07/14)

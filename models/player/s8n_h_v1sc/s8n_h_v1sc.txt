@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : s8n_h
+Source Model Hash : 0316a15dfab04e6271054a486002ef14
+Source Model Date : 1591138374 (2020/06/02)
+
+Ported Model Name : s8n_h_v1sc
+Ported Model Hash : 845cb769c3d273b2c0569f29e09c621b
+Ported Model Date : 1752492231 (2025/07/14)

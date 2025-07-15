@@ -1,0 +1,42 @@
+------------------------------------------------------------------
+  PROFESSOR DOOM AND HIS ROBOT OF INFINITE EVIL by SPASTiC CHiLD 
+------------------------------------------------------------------
+
+CREDITS:
+
+Basically I've hacked MZ.MARS Lazy Burns CS model, just replaced Mr Burns with a SPASTiC hackjob body.
+Everything not made by MZ.MARS:
+
+Head model/skin - Return to Castle Wolfenstein
+Hand model/texture,Body and legs textures - Max Payne
+Shoes texture - SOF2
+Glasses - HL Gordon model
+
+Hacked/remeshed/compiled by SPASTiC CHiLD
+
+--------------------------------------------------
+
+**NOTE**
+
+These models are not to be used for financial gain of anykind, they are distributed on the internet as a free package.
+You may include them in any custom model pack as long as they are credited correctly to the authors,but you may NOT include them in any pack that is for resale or to make a profit, without the express permission of the authors of the models.
+GAMES FUSION cannot include these models in an Fusion Packs.
+
+--------------------------------------------------
+
+Converted to SvenCoop 3.0 by Raging_Wulf
+
+
+-----------------------
+modelguy generated text
+-----------------------
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : profdoom
+Source Model Hash : 1fbf7126f7be10d21fab78622ec22e67
+Source Model Date : 1454615131 (2016/02/04)
+
+Ported Model Name : profdoom_v1sc
+Ported Model Hash : a7f0d0f52d834de1a23c66f97d27d96d
+Ported Model Date : 1752492169 (2025/07/14)

@@ -1,0 +1,25 @@
+Credit:
+
+ modeling by shiki
+
+ smd convert by takedeppo.50cal ....(^^;)b yay
+
+/////////////////////////////////////////////////////////
+shiki
+ç≈èâÇÃñ{î‘Å{ÉøÇQ
+http://saisyonohonban.blog120.fc2.com/
+
+
+-----------------------
+modelguy generated text
+-----------------------
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : touhou_kanako
+Source Model Hash : bba27c37666a24b1a46eb6349f8f960c
+Source Model Date : 1466683030 (2016/06/23)
+
+Ported Model Name : touhou_kanako_v1sc
+Ported Model Hash : bc53241d8f1b750fe9465fd6823bc82b
+Ported Model Date : 1752492439 (2025/07/14)

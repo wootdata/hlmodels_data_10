@@ -1,0 +1,22 @@
+Name of model: Opfor Engineer
+Model filename:torch
+Model Type: Player (SC3 animated) 
+Drawn Polys: 3,767
+Original Mesh: One Eyed Newt
+Player Conversion: R@p7oR
+SC3 Animations: R@p7oR 
+
+
+-----------------------
+modelguy generated text
+-----------------------
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : torch_v2
+Source Model Hash : 3b65d7b99af46b4aba18512f63ac16dd
+Source Model Date : 1583745517 (2020/03/09)
+
+Ported Model Name : torch_v2sc
+Ported Model Hash : 9211ac08df8b42f03c7c4f1eddfe5490
+Ported Model Date : 1752492432 (2025/07/14)

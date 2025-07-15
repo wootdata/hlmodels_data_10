@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : xmas_pussy
+Source Model Hash : 337cc6950b78d72d78e44687bd981ef5
+Source Model Date : 1339020676 (2012/06/06)
+
+Ported Model Name : xmas_pussy_v1sc
+Ported Model Hash : d12d35afe34901b577d1efc42924412b
+Ported Model Date : 1752492517 (2025/07/14)

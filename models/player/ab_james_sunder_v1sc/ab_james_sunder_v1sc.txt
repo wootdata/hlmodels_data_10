@@ -1,0 +1,20 @@
+Model porteado desde el formato Mesh por Angel Bravo y N4HW3ll y descargado desde la pag
+https://www.deviantart.com/jhonyhebert/art/James-Sunderland-Silent-Hill-2-V-2-362747455
+Model rippeado desde el Silent Hill Shattered Memories Por JhonyHebert
+ (pag http://jhonyhebert.deviantart.com)
+~* Enjoy *~
+
+
+-----------------------
+modelguy generated text
+-----------------------
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : ab_james_sunderland
+Source Model Hash : e25d59e039381a3f55cf73729972da9c
+Source Model Date : 1540954341 (2018/10/30)
+
+Ported Model Name : ab_james_sunder_v1sc
+Ported Model Hash : 964673f33b0ff27ad0003d1750d6d04b
+Ported Model Date : 1752491329 (2025/07/14)

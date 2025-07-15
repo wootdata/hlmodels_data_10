@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : yokotaro_v2
+Source Model Hash : 0e986d73a4f5d9c3b58e40d6c51424a0
+Source Model Date : 1521264328 (2018/03/16)
+
+Ported Model Name : yokotaro_v2sc
+Ported Model Hash : 417a6b6c79bc1b4582e00591a171fdc1
+Ported Model Date : 1752492521 (2025/07/14)

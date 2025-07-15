@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : gruntzombie_v3
+Source Model Hash : 6252ae55d68af16b2e91fdb5607a44a1
+Source Model Date : 1583884484 (2020/03/10)
+
+Ported Model Name : gruntzombie_v3sc
+Ported Model Hash : a44a9c112d7e457eed57ec9900259ba3
+Ported Model Date : 1752491743 (2025/07/14)

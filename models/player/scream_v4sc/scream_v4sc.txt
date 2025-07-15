@@ -1,0 +1,57 @@
+I found this model while looking on some old cds, it was originally for HLDM, but i decided to give it new life by updating it and making it for sven coop :)
+
+if anyone wants to have ago and skining the cloak be my guest, my one isn't my best :(
+
+i don't really know who did this for HLDM :(
+
+Original Model: Valve
+Edited Skin/Ghostface: ??
+Re-skin/Highres/Hack: xVox-Bloodstonex
+Hands: Max Payne 2 Rockstar
+Boots: TS Model (Don't Remember Which One)
+ 
+ 
+ 
+----------
+scream.txt
+----------
+
+Scream for Half-Life
+-----------------------------------------------------
+Author:       	Aaron Hoffman (Hoffa)
+
+Model Name:   	Scream
+Version:       	1.0
+Relaese Date:  	28 August 1999
+Files:		Scream.mdl Scream.bmp Scream.txt
+Polygons:     	630
+Vertices:     	334
+Team Colors:   	Yes, on the soles of the shoes (look carfully on the menu pic to see the colour).
+Animations:   	Standard Animations
+Programs Used:	3D Studio MAX R2.5, Photoshop 5, StudioMDL
+
+Description:
+This is a model of the Scream character from the film of the same name.  I came up with the idea while playing DM with the crowbar, and thought the Scream model would complement this style of play quite well. 
+
+Installation:
+Put all files into valve/models/player/Scream
+
+Distribution:
+The Scream model can be distributed freely as long as this text file is included.
+---------------------------------------------
+E-mail:	   	Hoffa:	azza@techno.net.au
+
+
+-----------------------
+modelguy generated text
+-----------------------
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : scream_v4
+Source Model Hash : bf8f71a905d65da1f6d09a45add2a52e
+Source Model Date : 1583735231 (2020/03/08)
+
+Ported Model Name : scream_v4sc
+Ported Model Hash : 75a49e8f53f860e27a9eda1d926a81a0
+Ported Model Date : 1752492250 (2025/07/14)

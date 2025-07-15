@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : sc_muffler
+Source Model Hash : c18e63bd53948bac3a56c54e2e8ac54a
+Source Model Date : 1519952807 (2018/03/01)
+
+Ported Model Name : sc_muffler_v1sc
+Ported Model Hash : d37422a7d2860492b7b1f6a38de1c13f
+Ported Model Date : 1752492254 (2025/07/14)

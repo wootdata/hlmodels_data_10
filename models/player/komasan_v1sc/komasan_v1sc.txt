@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : komasan
+Source Model Hash : c9748f2e76b740d69412fce40b3542b4
+Source Model Date : 1497123289 (2017/06/10)
+
+Ported Model Name : komasan_v1sc
+Ported Model Hash : b6c2c09e56a73b911ead0e1b8f963f1e
+Ported Model Date : 1752491908 (2025/07/14)

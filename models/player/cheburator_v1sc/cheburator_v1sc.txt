@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : cheburator
+Source Model Hash : c4cf335b0198194a6570a75cc32e9cbf
+Source Model Date : 1462729337 (2016/05/08)
+
+Ported Model Name : cheburator_v1sc
+Ported Model Hash : 098dca94e679dc14c80a079101ec6602
+Ported Model Date : 1752491467 (2025/07/14)

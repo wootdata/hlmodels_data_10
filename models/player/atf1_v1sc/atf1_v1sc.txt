@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : atf1
+Source Model Hash : f7225034239e56268190d78f2dd00cb8
+Source Model Date : 1500481374 (2017/07/19)
+
+Ported Model Name : atf1_v1sc
+Ported Model Hash : 84b2f3b7ff3da8316aa4a482583e2a65
+Ported Model Date : 1752491387 (2025/07/14)

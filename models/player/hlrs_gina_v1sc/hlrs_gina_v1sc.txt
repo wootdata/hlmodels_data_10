@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : hlrs_gina
+Source Model Hash : f3e53b8303144edcbf0a96dbb981997b
+Source Model Date : 1639626948 (2021/12/15)
+
+Ported Model Name : hlrs_gina_v1sc
+Ported Model Hash : ebfab5030b138873e67188c38e2b7a4a
+Ported Model Date : 1752491806 (2025/07/14)

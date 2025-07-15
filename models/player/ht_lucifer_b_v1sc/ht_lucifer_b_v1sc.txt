@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : ht_lucifer_b
+Source Model Hash : 3980f10137a8cb8dfedfc8f7efc7565a
+Source Model Date : 1680943308 (2023/04/08)
+
+Ported Model Name : ht_lucifer_b_v1sc
+Ported Model Hash : a8ea65760c268d0ff5759637ed5301de
+Ported Model Date : 1752491835 (2025/07/14)

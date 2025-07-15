@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : ark_lappyomen
+Source Model Hash : c40b65d34c9d08355facd5d28931eb01
+Source Model Date : 1694142490 (2023/09/07)
+
+Ported Model Name : ark_lappyomen_v1sc
+Ported Model Hash : 9996a9401d506ab801ddb84b819d6cd2
+Ported Model Date : 1752491373 (2025/07/14)

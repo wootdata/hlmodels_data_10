@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : csx_hostagea
+Source Model Hash : 7161aca0b24de856f0b7bbad54c20e96
+Source Model Date : 1617996256 (2021/04/09)
+
+Ported Model Name : csx_hostagea_v1sc
+Ported Model Hash : 1e7a7050c40e56999c656a108aa5cc60
+Ported Model Date : 1752491563 (2025/07/14)

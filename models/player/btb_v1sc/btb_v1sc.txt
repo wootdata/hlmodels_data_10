@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : btb
+Source Model Hash : 000817fabfb842ab0e6fd2a5440a9c65
+Source Model Date : 1237217274 (2009/03/16)
+
+Ported Model Name : btb_v1sc
+Ported Model Hash : e2242b1cebad3bfd9cdf2a5922016b6d
+Ported Model Date : 1752491450 (2025/07/14)

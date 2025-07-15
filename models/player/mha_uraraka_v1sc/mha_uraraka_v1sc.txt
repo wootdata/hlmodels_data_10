@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : mha_uraraka
+Source Model Hash : 63c00371089202c4d39e48de0d7ad495
+Source Model Date : 1590298653 (2020/05/23)
+
+Ported Model Name : mha_uraraka_v1sc
+Ported Model Hash : cf899aeb4605a5bbb3e0c19b8a7c3510
+Ported Model Date : 1752492010 (2025/07/14)

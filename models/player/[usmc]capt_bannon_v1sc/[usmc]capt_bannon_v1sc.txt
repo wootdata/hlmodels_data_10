@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : [usmc]capt_bannon
+Source Model Hash : bd9319514de35bb5569ebfb78b7402e6
+Source Model Date : 1542080627 (2018/11/12)
+
+Ported Model Name : [usmc]capt_bannon_v1sc
+Ported Model Hash : fda3e22a66a228b56c20d54b1e6dfb17
+Ported Model Date : 1752492539 (2025/07/14)

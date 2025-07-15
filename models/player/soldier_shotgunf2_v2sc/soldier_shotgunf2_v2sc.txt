@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : soldier_shotgunf2_v2
+Source Model Hash : 17c170bc168a7abf5c42c48b2d79b570
+Source Model Date : 1584003849 (2020/03/12)
+
+Ported Model Name : soldier_shotgunf2_v2sc
+Ported Model Hash : 05ca81e9550b3b26167a7bbf72a0fb31
+Ported Model Date : 1752492293 (2025/07/14)

@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : rotting
+Source Model Hash : b26fe7c1c6014e6bf4d32eff7986ef82
+Source Model Date : 1269526665 (2010/03/25)
+
+Ported Model Name : rotting_v1sc
+Ported Model Hash : c2919821780e1afe6e0b13e54d9ebe1f
+Ported Model Date : 1752492221 (2025/07/14)

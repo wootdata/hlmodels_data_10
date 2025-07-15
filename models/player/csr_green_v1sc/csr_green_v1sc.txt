@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : csr_green
+Source Model Hash : 50bba41ff080c653c34fb8b21839c9cb
+Source Model Date : 1538887968 (2018/10/06)
+
+Ported Model Name : csr_green_v1sc
+Ported Model Hash : a788cfb60182bceecff9412ec7a72dda
+Ported Model Date : 1752491556 (2025/07/14)

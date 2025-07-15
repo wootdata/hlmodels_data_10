@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : mlp_tempest
+Source Model Hash : 9c654db3012edf83db6a25b70ef228b7
+Source Model Date : 1518730780 (2018/02/15)
+
+Ported Model Name : mlp_tempest_v1sc
+Ported Model Hash : b3295729016b2804c30163cd7c537cfe
+Ported Model Date : 1752492036 (2025/07/14)

@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : qwtf_pyro
+Source Model Hash : 6ca8c4bdbe5fd9bd1dcf74f70a16ecb2
+Source Model Date : 1637598342 (2021/11/22)
+
+Ported Model Name : qwtf_pyro_v1sc
+Ported Model Hash : d3b2de4a59cb71998e26799c16c8e258
+Ported Model Date : 1752492182 (2025/07/14)

@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : aquatic
+Source Model Hash : 55747c52befb0958f72eff8073ed60e1
+Source Model Date : 1262619794 (2010/01/04)
+
+Ported Model Name : aquatic_v1sc
+Ported Model Hash : 7356d49039e840a75e746b436337842f
+Ported Model Date : 1752491365 (2025/07/14)

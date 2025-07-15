@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : sade_v2
+Source Model Hash : 835eb1474b02cba337924cc42dd64548
+Source Model Date : 1591139671 (2020/06/02)
+
+Ported Model Name : sade_v2sc
+Ported Model Hash : 7a57d00203a55d8a0c51ffce142c5181
+Ported Model Date : 1752492232 (2025/07/14)

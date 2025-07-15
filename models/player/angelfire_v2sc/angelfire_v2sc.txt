@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : angelfire_v2
+Source Model Hash : 84c9ed4033c792552451fd254b1ad6b1
+Source Model Date : 1590438940 (2020/05/25)
+
+Ported Model Name : angelfire_v2sc
+Ported Model Hash : 35d8a94353c3ce70422c5797662e4042
+Ported Model Date : 1752491361 (2025/07/14)

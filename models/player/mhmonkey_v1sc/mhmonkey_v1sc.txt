@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : mhmonkey
+Source Model Hash : 12a7f3eb11ee7186f5ce6eb4ccdb9b47
+Source Model Date : 1629410798 (2021/08/19)
+
+Ported Model Name : mhmonkey_v1sc
+Ported Model Hash : 8e40a8998cd7779860004f6f1b00964a
+Ported Model Date : 1752492013 (2025/07/14)

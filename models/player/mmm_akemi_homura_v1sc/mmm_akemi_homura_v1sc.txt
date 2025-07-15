@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : mmm_akemi_homura
+Source Model Hash : 3685963e24304b473a25d207b3ee108d
+Source Model Date : 1407357316 (2014/08/06)
+
+Ported Model Name : mmm_akemi_homura_v1sc
+Ported Model Hash : f64b15502418c655ba6f30464e1912ee
+Ported Model Date : 1752492037 (2025/07/14)

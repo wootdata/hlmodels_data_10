@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : nato-troopergreen
+Source Model Hash : bbb6e984c0870289f800a0e194533596
+Source Model Date : 1265568781 (2010/02/07)
+
+Ported Model Name : nato-troopergreen_v1sc
+Ported Model Hash : 0236dea95a02d62aca767d875155dbe0
+Ported Model Date : 1752492074 (2025/07/14)

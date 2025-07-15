@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : commander_fox
+Source Model Hash : 90c90af194dfa17f382072866454ecc3
+Source Model Date : 1713578293 (2024/04/19)
+
+Ported Model Name : commander_fox_v1sc
+Ported Model Hash : 331d904881ad979ed4e573291ea62067
+Ported Model Date : 1752491519 (2025/07/14)

@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : adidas1
+Source Model Hash : 6bba5d7e0e069135d07e26a4e4d451d0
+Source Model Date : 1588648584 (2020/05/04)
+
+Ported Model Name : adidas1_v1sc
+Ported Model Hash : de8958e478a073e6df41c7a22e553ef7
+Ported Model Date : 1752491331 (2025/07/14)

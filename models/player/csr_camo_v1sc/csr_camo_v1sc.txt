@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : csr_camo
+Source Model Hash : 3f4e0cdd311a0fdb561a021ef3622162
+Source Model Date : 1624560467 (2021/06/24)
+
+Ported Model Name : csr_camo_v1sc
+Ported Model Hash : ec556999a0ea728269bff5a649847536
+Ported Model Date : 1752491556 (2025/07/14)

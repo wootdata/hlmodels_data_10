@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : ship_greensuit
+Source Model Hash : aced59db88273810de27b06c4a86ff6a
+Source Model Date : 1269858551 (2010/03/29)
+
+Ported Model Name : ship_greensuit_v1sc
+Ported Model Hash : d86ed3adafc91f2b9c604cf1a3b60f8e
+Ported Model Date : 1752492271 (2025/07/14)

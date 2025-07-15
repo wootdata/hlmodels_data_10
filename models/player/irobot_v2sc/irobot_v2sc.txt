@@ -1,0 +1,23 @@
+﻿Credits
+
+Gearbox for the origonal barney skin
+Ambient.Impact for his barney model
+DeEp-SiX robot skin
+
+please email me at DeepSix2@hotmail.com
+if you have an addition to these credits
+
+
+-----------------------
+modelguy generated text
+-----------------------
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : irobot_v2
+Source Model Hash : e718d85f92b693bd3fa1a2c0142664ba
+Source Model Date : 1583565003 (2020/03/06)
+
+Ported Model Name : irobot_v2sc
+Ported Model Hash : 7e651c5cd3209adc1eb899dad4aff9bb
+Ported Model Date : 1752491851 (2025/07/14)

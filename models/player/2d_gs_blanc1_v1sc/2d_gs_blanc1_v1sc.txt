@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : 2d_gs_blanc1
+Source Model Hash : 89ae25ec6336f4474287f84c7bb60ddd
+Source Model Date : 1553777230 (2019/03/28)
+
+Ported Model Name : 2d_gs_blanc1_v1sc
+Ported Model Hash : 3f8aca39c0c45e2c0ebd5875db3433db
+Ported Model Date : 1752491307 (2025/07/14)

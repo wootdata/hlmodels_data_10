@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : recon1
+Source Model Hash : 0d33be8b4836ddfe265e7f1cff5779d8
+Source Model Date : 1269248314 (2010/03/22)
+
+Ported Model Name : recon1_v1sc
+Ported Model Hash : c53e5100c64927bcb736e635a514d3a8
+Ported Model Date : 1752492194 (2025/07/14)

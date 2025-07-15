@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : mhahimikob
+Source Model Hash : 3f06153683649b94f0e8bd1786d965c3
+Source Model Date : 1640479160 (2021/12/25)
+
+Ported Model Name : mhahimikob_v1sc
+Ported Model Hash : a0e5c2a1fe3ecb69cf840a9af33b1883
+Ported Model Date : 1752492010 (2025/07/14)

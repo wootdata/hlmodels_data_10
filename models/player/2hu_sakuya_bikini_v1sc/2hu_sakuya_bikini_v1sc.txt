@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : touhou_sakuya_bikini
+Source Model Hash : e50677a0fc45fd3658887b2c3a32e83d
+Source Model Date : 1523050882 (2018/04/06)
+
+Ported Model Name : 2hu_sakuya_bikini_v1sc
+Ported Model Hash : 521791c1782c007470e74e09ad6aae9e
+Ported Model Date : 1752492445 (2025/07/14)

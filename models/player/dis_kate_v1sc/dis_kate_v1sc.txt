@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : dis_kate
+Source Model Hash : 02852334c07cee1fb1b5650c26529f6e
+Source Model Date : 1524153076 (2018/04/19)
+
+Ported Model Name : dis_kate_v1sc
+Ported Model Hash : 2c65882af6fcca010929b04cb63c8dd6
+Ported Model Date : 1752491600 (2025/07/14)

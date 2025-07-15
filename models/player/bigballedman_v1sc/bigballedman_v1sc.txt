@@ -1,0 +1,37 @@
+		**************BigBALLedMan***************
+
+  He's big, he's balled, we presume he's a man, therefor... he is 
+BigBALLedMan.  This is the first version of BigBALLedMan so there may
+be errors in the design.  If you find any errors please email us.
+
+
+jacobf@americangrowth.com - skin, programming
+
+SCUD868099@aol.com - 3D artist
+
+
+
+INSTALLATION:
+
+After unzipping the three files (BigBALLedMan.mdl, BigBALLedMan.txt, 
+and BigBALLedMan.bmp) place them into a folder named "BigBALLedMan" 
+exactly like that.  Then place that folder into the 
+"Sierra\Half-life\valve\models\player\".  If you do not have that 
+folder than place the "BigBALLedMan" folder were ever your other 
+models are.
+
+
+
+-----------------------
+modelguy generated text
+-----------------------
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : bigballedman
+Source Model Hash : f56a249cf48cbc5bfcaa13b6a7abe09b
+Source Model Date : 1590134783 (2020/05/22)
+
+Ported Model Name : bigballedman_v1sc
+Ported Model Hash : ca1c65cb94a26e1b0b0ae131d4e1fa0d
+Ported Model Date : 1752491427 (2025/07/14)

@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : da_balloongirl
+Source Model Hash : 02faf09fedc3a8e2a6fb87c19e043221
+Source Model Date : 1462797748 (2016/05/09)
+
+Ported Model Name : da_balloongirl_v1sc
+Ported Model Hash : 1b4e824f7e61a430d4c6b34a1727a132
+Ported Model Date : 1752491584 (2025/07/14)

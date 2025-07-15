@@ -1,0 +1,31 @@
+Arche
+Version 1.0
+Modeled by: Peam (1999) 	email: peam_p@yahoo.com
+Site: www.geocities.com/siliconvalley/lab/3189/
+
+Speacial thanks to: Spider, provider of model tutoring		
+--------------------------------------------------------------------------------------------
+
+Comments
+-----------------
+- She is always in flight mode.
+- New style model.
+- All new animations.
+- Many texture files, this may slow your machine down.
+
+Enjoy!
+
+
+-----------------------
+modelguy generated text
+-----------------------
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : arche
+Source Model Hash : b83bf62d4ac69b0079ce6230b57c9e55
+Source Model Date : 1262719742 (2010/01/05)
+
+Ported Model Name : arche_v1sc
+Ported Model Hash : 80da37e65ba3be02c323a5b8931914e2
+Ported Model Date : 1752491365 (2025/07/14)

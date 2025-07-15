@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : sp_aqua_color
+Source Model Hash : e9b37748df64f51916d90ce523fee03f
+Source Model Date : 1640220521 (2021/12/22)
+
+Ported Model Name : sp_aqua_color_v1sc
+Ported Model Hash : f107e671cb9652759b4aaa6fc6ae1592
+Ported Model Date : 1752492315 (2025/07/14)

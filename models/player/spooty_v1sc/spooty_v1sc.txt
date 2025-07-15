@@ -1,0 +1,50 @@
+aug 9 2000
+================================================================
+Model Name              : spooty
+installation directory  : halflife/valve/models/player/spooty
+Author                  : nad
+Email Address           : anadart008@hotmail.com
+
+Model description       : fallen angel or skullman 
+
+
+Other info              : one of nads first meshes
+
+================================================================
+* Play Information *
+
+
+* Construction *
+Poly Count              : 718
+Skin Count              : 256x256.bmp
+Base                    : New model
+Editor used             : 3d studiomax
+Known Bugs              : 
+Build/Animation time    : modelbuilt_5 hours ,textures_same
+
+
+* How to use this model *
+
+unzip into Halflife/valve/models/player
+
+* Copyright / Permissions *
+
+want to use this model in anything other than multi-player deathmatch , 
+please ask for permission first --- > anadart008@hotmail.com  
+
+ 
+
+
+-----------------------
+modelguy generated text
+-----------------------
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : spooty
+Source Model Hash : 9174f700bce82e36d0af7b91016850d3
+Source Model Date : 1269960594 (2010/03/30)
+
+Ported Model Name : spooty_v1sc
+Ported Model Hash : 623e2ad25ef0eba4da37a34411d21162
+Ported Model Date : 1752492311 (2025/07/14)

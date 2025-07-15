@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : mikunavidad
+Source Model Hash : 29b331b8e83a91e9b2166db91064ceb7
+Source Model Date : 1446126153 (2015/10/29)
+
+Ported Model Name : mikunavidad_v1sc
+Ported Model Hash : b942bb0c2cf283a487d2addac5d3162f
+Ported Model Date : 1752492021 (2025/07/14)

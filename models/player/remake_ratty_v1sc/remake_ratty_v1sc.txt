@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : remake_ratty
+Source Model Hash : 4b1cc533e8790fb69bdde11781733129
+Source Model Date : 1579696212 (2020/01/22)
+
+Ported Model Name : remake_ratty_v1sc
+Ported Model Hash : ac89fd9575a6d339a98481de89ced457
+Ported Model Date : 1752492197 (2025/07/14)

@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : kiwi
+Source Model Hash : 7886fe89aa6bc9b28892147f0997f7b3
+Source Model Date : 1263493126 (2010/01/14)
+
+Ported Model Name : kiwi_v1sc
+Ported Model Hash : 1a9a508724451da47cbd9eb65658eb08
+Ported Model Date : 1752491891 (2025/07/14)

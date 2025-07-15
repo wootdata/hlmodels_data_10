@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : gf_ump9_v2
+Source Model Hash : b0d5edd33c3f601a6bde078f9cd6250f
+Source Model Date : 1699546144 (2023/11/09)
+
+Ported Model Name : gf_ump9_v2sc
+Ported Model Hash : d418fdcdc9c079f6922cfa510819bae6
+Ported Model Date : 1752491698 (2025/07/14)

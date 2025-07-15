@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : tospswatheavy
+Source Model Hash : abc9f7b64bffe0e5f456316973bfa4da
+Source Model Date : 1639225902 (2021/12/11)
+
+Ported Model Name : tospswatheavy_v1sc
+Ported Model Hash : 9fdabe06cb3b4be7595fbdedcba2b877
+Ported Model Date : 1752492432 (2025/07/14)

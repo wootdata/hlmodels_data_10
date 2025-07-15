@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : raz777
+Source Model Hash : 21fb3a20e58be26646c8214059e70522
+Source Model Date : 1260924116 (2009/12/15)
+
+Ported Model Name : raz777_v1sc
+Ported Model Hash : 09daca4ea7fadc2781479aae816853ff
+Ported Model Date : 1752492189 (2025/07/14)

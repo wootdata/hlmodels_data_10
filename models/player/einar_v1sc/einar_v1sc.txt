@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : einar
+Source Model Hash : f07679c1e484b019cfc4a8344bd97713
+Source Model Date : 1264844686 (2010/01/30)
+
+Ported Model Name : einar_v1sc
+Ported Model Hash : 79aa95ba541945be6dd082a86f7b128d
+Ported Model Date : 1752491630 (2025/07/14)

@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : blackbear
+Source Model Hash : 1ea8d228322ff91904681843c9e815c4
+Source Model Date : 1590178682 (2020/05/22)
+
+Ported Model Name : blackbear_v1sc
+Ported Model Hash : c5457d654cddcd0ca531ad8c95aed9f9
+Ported Model Date : 1752491432 (2025/07/14)

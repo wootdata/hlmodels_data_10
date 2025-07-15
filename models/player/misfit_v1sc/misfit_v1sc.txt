@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : misfit
+Source Model Hash : fb88d9a38c920ba62674639c44dc37d6
+Source Model Date : 1266503104 (2010/02/18)
+
+Ported Model Name : misfit_v1sc
+Ported Model Hash : c9dfeba83c112a7ac6dde316c345dee1
+Ported Model Date : 1752492027 (2025/07/14)

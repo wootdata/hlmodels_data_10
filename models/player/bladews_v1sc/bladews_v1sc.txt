@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : bladews
+Source Model Hash : 500736bc9122a30d24ae2529eb9eda1d
+Source Model Date : 1268057618 (2010/03/08)
+
+Ported Model Name : bladews_v1sc
+Ported Model Hash : ac3a4fd7b5cdf67246915af0240e33c0
+Ported Model Date : 1752491435 (2025/07/14)
