@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : pm_dawn_bad_ported
+Source Model Hash : 9f3b66a4e202741857db4360686c2133
+Source Model Date : 1753576883 (2025/07/26)
+
+Ported Model Name : pm_dawn_bad_port_v1sc
+Ported Model Hash : daea118ce83b74d2b12fadfb338c2b25
+Ported Model Date : 1758225767 (2025/09/18)

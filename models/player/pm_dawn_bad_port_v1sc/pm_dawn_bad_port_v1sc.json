@@ -156,7 +156,7 @@
 			"type": 32
 		}
 	],
-	"date": 1758223629,
+	"date": 1758225767,
 	"events": [
 		{
 			"event": 5005,
@@ -410,8 +410,8 @@
 	"metahook_ragdoll": false,
 	"modid": 14,
 	"name": "Dawn_scarred.mdl",
-	"preview": false,
-	"readme": false,
+	"preview": true,
+	"readme": true,
 	"seq_groups": "1",
 	"sequences": [
 		{
