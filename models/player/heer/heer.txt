@@ -1,0 +1,38 @@
+installation-
+	Unzip this file in SIERRA\Half-Life\valve\models\player
+
+model name-
+	Heer
+
+author-
+	100-PeRcEnT-DeD (yelrom18@hotmail.com)
+
+
+web site-
+	http://themoh.homestead.com/home
+	(web site on the game Medal of Honor for Playstaion)
+
+description-
+	This model is based on the World War 2 German unit, the Heer.
+The Heer was a basic person fighting in the Regular German Army which was called
+Heer. This particular soldier has the rank of Gefreiter which ment Corporal
+In German.
+
+known glitches-1 rank on left amr destorted
+               2 rank on collars, can only see one bar (should be two bars)
+               3 stubble on cheeck destorted
+               - sorry i couldn't fix these i tried my best with what i had :(
+
+build time-
+	5 hours straight
+
+disclaimer & comments-
+	This model is actually made from the barney model. I just 
+"painted" over the model of barney. I did not make the barney model ONLY 
+the used it as a base for mine. Don't use this model for profit or 
+anything like that. Also I am not reasponsible if this, in some crazy way,
+destroys any of your stuff or files or something like that. I only made 
+this model for the enjoyment of other Half Life players. Well I hope you 
+like it and e-mail me if you find any glitches or suggestions. Thank You 
+for down loading this. There may be more coming soon :)   
+   

@@ -1,0 +1,70 @@
+=======================================
+   I.Am/PCGames Submitted File Information
+   =======================================
+   Please use this form for ALL files sent
+   half-life.pcgame.com  -  tfc.pcgame.com
+   q3a.pcgame.com   -   kingpin.pcgame.com
+   ---------------------------------------
+
+GAME: 
+-----     
+     [X] Half-Life                (http://half-life.pcgame.com)
+     [ ] Team Fortress Classic    (http://tfc.pcgame.com)
+     [ ] Kingpin                  (http://kingpin.pcgame.com)
+     [ ] Quake3:Arena             (http://q3a.pcgame.com)
+
+TYPE of FILE:
+-------------
+     MAPS      (also fill out all ADDITIONAL INFO below)
+          [ ] Deathmatch Map
+          [ ] Single-Player Map
+          [ ] Combination Deathmatch and Single-Player Map
+
+     MODELS    (also fill out ADDITIONAL INFO below)
+          [ ] Model
+          [X] Skin based on Gordon Model
+
+     DEMOS    (also fill out ADDITIONAL INFO below)
+          Recorded under game version: ____________
+          (only latest version demos accepted)
+          [ ] Speed Run Demo
+          [ ] Special Techniques Demo
+          Description:
+
+===========================
+ Additional Information
+===========================
+
+--- DEMO, MAP, or MODEL General Information ------
+Date                     :8/11/99
+Author                   :Skadus Donovaine
+Title                    :Shadow
+Zip Filename             :Shadow.zip
+BSP/DEM/MDL Filename     :Shadow.mdl
+Other works by author    :None (first upload)
+Email address            :skadus@hotmail.com
+Home page                :
+Additional Credits to    :
+
+--- DEMO, MAP, or MODEL Additional Info------------------------
+I used the skin editor found at I.AM.HALFLIFE to create this 
+alternate skin... Basically it's Gordon, but completely blacked
+out except for the eyes, which i recolored from blue to red.
+Nothing that special, but I figured it might be fun for dark
+places in Multiplayer... Please send any comments or stuff to
+skadus@hotmail.com, but put something in the subject line
+pertaining to Shadow or Shadow Skin or something like that so
+I can separate it from the junk I get. Enjoy!
+
+
+
+--- DEMO, MAP, or MODEL Copyright-Permissions------------------
+Authors MAY NOT use this level as a base to build additional levels. 
+
+You MUST NOT distribute this level UNLESS you INCLUDE THIS FILE WITH
+NO MODIFICATIONS!!!. If you don't co-operate, then DON'T DISTRIBUTE
+IT IN ANY FORM!!.
+
+This BSP may be distributed ONLY over the Internet and/or BBS systems.
+You are NOT authorized to put this BSP on any CD or distribute it in
+any way without my permission.
