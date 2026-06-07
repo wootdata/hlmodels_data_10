@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : burnicewhite
+Source Model Hash : 93dcb7ccb3411a8f9fc7c1d2bb683e44
+Source Model Date : 1774184899 (2026/03/22)
+
+Ported Model Name : burnicewhite_v1sc
+Ported Model Hash : 7a45fe3ddb77906c8c30ac0d79a687cb
+Ported Model Date : 1780823018 (2026/06/07)

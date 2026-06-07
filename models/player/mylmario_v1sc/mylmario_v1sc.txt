@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : mylmario
+Source Model Hash : dad4d297d261e90ea6ae464ea5b1265a
+Source Model Date : 1771721818 (2026/02/21)
+
+Ported Model Name : mylmario_v1sc
+Ported Model Hash : 9bb03b0cb4fdffc078438f38ebd39541
+Ported Model Date : 1780823045 (2026/06/07)

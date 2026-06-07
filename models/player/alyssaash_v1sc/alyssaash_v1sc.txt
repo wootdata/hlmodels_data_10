@@ -1,0 +1,10 @@
+This model was automatically ported to Half-Life from Sven Co-op using modelguy.
+https://github.com/wootguy/modelguy
+
+Source Model Name : alyssaash
+Source Model Hash : ef426a8de63b221aa9313885daf1ac62
+Source Model Date : 1773025512 (2026/03/08)
+
+Ported Model Name : alyssaash_v1sc
+Ported Model Hash : e152118ad9e59de48f05dcbd0935ac57
+Ported Model Date : 1780823013 (2026/06/07)
